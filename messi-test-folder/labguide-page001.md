@@ -16,7 +16,7 @@ Hello
 | 4  | David      | 35 | Houston    |
 | 5  | Eve        | 22 | Miami      |
 
-
+~~Strikethrough~~
 
 1. Ordered List
 2. Item 2
