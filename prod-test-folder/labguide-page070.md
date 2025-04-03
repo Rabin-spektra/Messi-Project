@@ -1,18 +1,9 @@
-```sql
-USE CATALOG <workspace-catalog>;
 
-CREATE TABLE IF NOT EXISTS default.department
-(
-   deptcode   INT,
-   deptname   STRING,
-   location   STRING
-);
+![Picture3.png](https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Lab-Guide/main/50444Hp6LnYDC/images/Picture3.png?token=8b2t1Sg45N8JBe8QNwBlyhJq)
 
-INSERT INTO default.department VALUES
-  (10, 'FINANCE', 'EDINBURGH'),
-  (20, 'SOFTWARE', 'PADDINGTON');
-  
-```
+
+
+
 
 
   
