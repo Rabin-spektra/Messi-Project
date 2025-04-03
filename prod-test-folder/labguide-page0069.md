@@ -12,7 +12,11 @@ Source Code
 
 [Google](http://www.google.com "Google")
 
+----
+
 **<inject key="azureaduserpassword" value="test" cloudname="Microsoft Azure" enableCopy="true" enableClickToPaste="false" defaultValue="thisdefault"/>**
+
+----
 
 1. Ordered List
 2. ITem 2
