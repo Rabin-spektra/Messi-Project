@@ -1,16 +1,18 @@
+```sql
+USE CATALOG <workspace-catalog>;
 
+CREATE TABLE IF NOT EXISTS default.department
+(
+   deptcode   INT,
+   deptname   STRING,
+   location   STRING
+);
 
-
-
-
-
-3. Click **Connect** and attach the notebook to a compute resource.  
-4. Add the following commands to the notebook and run them (replace `<workspace-catalog>` with the name of your workspace catalog):  
-
-
-
-
-
+INSERT INTO default.department VALUES
+  (10, 'FINANCE', 'EDINBURGH'),
+  (20, 'SOFTWARE', 'PADDINGTON');
   
-  
+```
+
+
   
