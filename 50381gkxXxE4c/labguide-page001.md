@@ -1,5 +1,12 @@
 km~~Strikethrough~~- 
 
+|col_1|col_2|col_3|col_4|
+| -------- | -------- | -------- | -------- |
+|1|row_data|row_data|row_data|
+|2|row_data|row_data|row_data|
+
+**Bold Text**
+- Unordered List
 1. Unordered List
 2. mmmm
 3. klklkl
