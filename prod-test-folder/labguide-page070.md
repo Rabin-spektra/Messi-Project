@@ -1,9 +1,8 @@
-# Databricks UC Hands-on  
-## Create your first table and grant privileges  
+# Task 1: Create Your First Table  
 
-This hands-on provides a quick walkthrough of creating a table and granting privileges in Databricks using the Unity Catalog.
+Unity Catalog includes a three-level namespace for data objects: **catalog.schema.table**.  
 
-# Prerequisites  
 
-In order to perform this hands-on, you must have access to:  
-- **Databricks workspace ENV with UC enabled**  
+
+
+
