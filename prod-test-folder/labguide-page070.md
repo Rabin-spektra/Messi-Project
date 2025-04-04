@@ -89,10 +89,3 @@ In this example, you give a group with group ID **125560464292541** (Find out th
 ```sql
 GRANT SELECT ON default.department TO `<your group>`;
 ```
-
-
-
-
-  
-  
-  
