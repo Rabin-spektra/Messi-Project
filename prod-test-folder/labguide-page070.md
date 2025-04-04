@@ -1,3 +1,5 @@
+**₹10,000**
+
 # Databricks UC Hands-on  
 ## Create your first table and grant privileges  
 
