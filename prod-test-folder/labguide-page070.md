@@ -1,7 +1,7 @@
-**₹10,000**
-
 # Databricks UC Hands-on  
 ## Create your first table and grant privileges  
+
+**₹10,000**
 
 This hands-on provides a quick walkthrough of creating a table and granting privileges in Databricks using the Unity Catalog.
 
