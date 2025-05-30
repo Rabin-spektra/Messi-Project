@@ -6,3 +6,5 @@ Hello
 
 <question source="labguidepage001cB8ZGG20" />
 <grouped-questions source="labguidepage0012PshLUnB" />
+
+<inject key="displayname" cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" defaultValue="default-value"/>
