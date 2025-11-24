@@ -19,14 +19,6 @@
 - Level 1 item 2
     - Level 2 item 3
 
-## Test 2: Basic Nested Ordered Lists
-1. First level item 1
-    1. Second level item 1
-        1. Third level item 1
-        1. Third level item 2
-    1. Second level item 2
-1. First level item 2
-
 ## Test 3: Mixed Ordered and Unordered
 - Unordered level 1
     1. Ordered level 2
